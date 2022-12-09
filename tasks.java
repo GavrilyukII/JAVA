@@ -14,7 +14,7 @@ public class tasks {
         newAr(100); //задача 7
         squareAr(arr2); //задача 8
         dualAr(); //задача 9
-        valIn(7,2);
+        valIn(7,2); //задача 10
     }
 
     public static boolean isPositive(int x) {
